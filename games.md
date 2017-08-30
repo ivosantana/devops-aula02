@@ -5,3 +5,5 @@
 *Castlevania Series
 
 *Super Robot Taisen Series
+
+*The Witcher Trilogy
