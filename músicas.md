@@ -1,7 +1,7 @@
-#Músicas Favoritas
+#Cantores
 
-*Lose yourself
+*Eminem
 
-*Pts.OF.Athrty
+*Mike Shinoda
 
-*Blue Jeans
+*Lana D Rey
